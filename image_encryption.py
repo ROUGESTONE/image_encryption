@@ -9,7 +9,7 @@ import time
 
 class Encryptor:
     """Class for encryption/decryption"""
-    ``
+    
     def __init__(self, key):
         """Constructor of the class"""
         self.key = key
